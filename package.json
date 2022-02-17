@@ -1,0 +1,35 @@
+{
+  "name": "js-labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schalkez/nodejs_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "blog",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "hien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schalkez/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/Schalkez/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "mon": "^0.0.8",
+    "node": "^17.4.0"
+  }
+}
